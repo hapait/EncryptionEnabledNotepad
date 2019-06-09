@@ -1,0 +1,10 @@
+G:\NOW\CS\EncryptionEnabledNotepad\bin\Debug\EncryptionEnabledNotepad.exe.config
+G:\NOW\CS\EncryptionEnabledNotepad\bin\Debug\EncryptionEnabledNotepad.exe
+G:\NOW\CS\EncryptionEnabledNotepad\bin\Debug\EncryptionEnabledNotepad.pdb
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.csprojResolveAssemblyReference.cache
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.Main.resources
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.Properties.Resources.resources
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.csproj.GenerateResource.Cache
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.exe
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.pdb
+G:\NOW\CS\EncryptionEnabledNotepad\obj\Debug\EncryptionEnabledNotepad.FileEncryptionForm.resources
